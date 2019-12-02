@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FastNotesApp</string>
+    <string name="edit_text_title_hint">Título de la nota</string>
 </resources>
