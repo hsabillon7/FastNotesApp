@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">FastNotesApp</string>
     <string name="edit_text_title_hint">Título de la nota</string>
+    <string name="edit_text_description_hint">Descripción de la nota</string>
+    <string name="radio_button_baja">Baja</string>
+    <string name="radio_button_media">Media</string>
+    <string name="radio_button_alta">Alta</string>
+    <string name="button_add">Agregar la nota</string>
 </resources>
